@@ -1,5 +1,5 @@
 # Parking-Lot-Management-System
 ## Basil Peter 
-## Ram Kiran r
+## Ram Kiran R
 ## Rishabh P S
 ## Rohan Anoop
